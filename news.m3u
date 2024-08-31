@@ -65,6 +65,8 @@ https://jmp2.uk/sam-US4000033L.m3u8
 https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 group-title="International",ABC News Live
+https://jmp2.uk/sam-USBC39000171G.m3u8
 #EXTINF:-1 group-title="International",CBS News 24/7
 https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 group-title="International",Bloomberg
