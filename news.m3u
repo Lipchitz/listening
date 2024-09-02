@@ -61,12 +61,18 @@ https://jmp2.uk/sam-CHBD800001D0.m3u8
 https://jmp2.uk/sam-DEBD800001S4.m3u8
 #EXTINF:-1 group-title="International",CNN UK
 https://jmp2.uk/sam-GBBD8000016N.m3u8
+#EXTINF:-1 group-title="International",CNN 
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/b99a6a06-958d-4c31-8a80-ec179dfe8ec0/0.m3u8
 #EXTINF:-1 group-title="International",BBC News
 https://jmp2.uk/sam-US4000033L.m3u8
+#EXTINF:-1 group-title="International",BBC News
+https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/993025e9-a428-44f4-96c4-41a2846b7897/5.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
 https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
+#EXTINF:-1 group-title="International",NBC News NOW
+https://d2ww7x6333b6qp.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-nbcu-linear/15c85460-bbdd-4c66-a54e-ed767e11f730/4.m3u8
 #EXTINF:-1 group-title="International",ABC News Live
 https://jmp2.uk/sam-USBC39000171G.m3u8
 #EXTINF:-1 group-title="International",CBS News 24/7
