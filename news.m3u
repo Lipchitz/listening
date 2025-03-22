@@ -1,32 +1,38 @@
-#EXTM3U
-#EXTINF:-1 group-title="International",BBC
-https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+﻿#EXTM3U
+#EXTINF:-1 group-title="International",BBC World Service
+https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 group-title="International",BBC
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+#EXTINF:-1 group-title="International",BBC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International",BBC SD
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:-1 group-title="International",CNN
+https://jmp2.uk/sam-CHBD800001D0.m3u8
 #EXTINF:-1 group-title="International",CNN 
 http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+#EXTINF:-1 group-title="International",CNN Germany
+https://jmp2.uk/sam-DEBD800001S4.m3u8
+#EXTINF:-1 group-title="International",CNN UK
+https://jmp2.uk/sam-GBBD8000016N.m3u8
 #EXTINF:-1 group-title="International",CNN International
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 group-title="International",Bloomberg
+https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+#EXTINF:-1 group-title="International",BloombergTV+
+https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 group-title="International",Bloomberg
+https://jmp2.uk/sam-ATBA3300018K1.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
 https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
 #EXTINF:-1 group-title="International",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 group-title="International",BloombergTV+
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="International",BloombergTV+
-https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="International",BloombergTV+
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 group-title="International",BloombergTV+
-https://bloomberg-bloombergtv-3-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="International",DW News
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="International",France 24
-https://jmp2.uk/sam-CHBD1100003CW.m3u8
+https://ythls.armelin.one/channel/UCQfwfsi5VrQ8yKZ-UWmAEFg.m3u8
 #EXTINF:-1 group-title="International",FOX News
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International",SKY News
@@ -41,16 +47,12 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="International",RT News
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
-#EXTINF:-1 group-title="International",Bloomberg
-https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
-hhttp://fl1.moveonjoy.com/NBC_EAST/index.m3u8
+https://jmp2.uk/sam-USBB2200014DK.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 group-title="International",ABC News Live
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="International",C-SPAN
-http://fl2.moveonjoy.com/C-SPAN/index.m3u8
+https://jmp2.uk/sam-USBC39000171G.m3u8
 #EXTINF:-1 group-title="International",CBS News 24/7
 https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 group-title="International",Reuters
