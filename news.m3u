@@ -49,12 +49,10 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 group-title="International",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="International",NHK World
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="International",CBS
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="International",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
+#EXTINF:-1 group-title="International",CBS News 24/7
+https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 group-title="International",RT News
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="International",NBC News NOW
@@ -65,8 +63,6 @@ https://jmp2.uk/sam-GBBB1500004LG.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 group-title="International",ABC News Live
 https://jmp2.uk/sam-USBC39000171G.m3u8
-#EXTINF:-1 group-title="International",CBS News 24/7
-https://jmp2.uk/sam-USBA370000104.m3u8
 #EXTINF:-1 group-title="International",Reuters
 https://jmp2.uk/sam-DEBD4900001QV.m3u8
 #EXTINF:-1 group-title="International",C-span
