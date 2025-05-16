@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="International",BBC World Service
 https://jmp2.uk/sam-US4000033L.m3u8
 #EXTINF:-1 group-title="International",BBC
-http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+http://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 #EXTINF:-1 group-title="International",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International",BBC SD
@@ -14,7 +14,7 @@ https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a
 #EXTINF:-1 group-title="International",CNN
 https://jmp2.uk/sam-CHBD800001D0.m3u8
 #EXTINF:-1 group-title="International",CNN 
-http://fl2.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
+http://fl3.moveonjoy.com/CNN_INTERNATIONAL/index.m3u8
 #EXTINF:-1 group-title="International",CNN Germany
 https://jmp2.uk/sam-DEBD800001S4.m3u8
 #EXTINF:-1 group-title="International",CNN UK
@@ -49,6 +49,8 @@ https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Liv
 https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 group-title="International",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="International",Yahoo Finance 
+https://yahoo-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="International",CBS
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="International",CBS News 24/7
@@ -66,7 +68,9 @@ https://jmp2.uk/sam-USBC39000171G.m3u8
 #EXTINF:-1 group-title="International",Reuters
 https://jmp2.uk/sam-DEBD4900001QV.m3u8
 #EXTINF:-1 group-title="International",C-span
-https://v1.thetvapp.to/hls/CSPAN/tracks-v1a1/mono.m3u8
+http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="International",CNBC
+http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="International",NHK
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="International",NHK
