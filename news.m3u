@@ -21,8 +21,6 @@ https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 https://jmp2.uk/stvp-DEBD800001S4
 #EXTINF:-1 group-title="International",CNN UK
 https://jmp2.uk/stvp-GBBD8000016N
-#EXTINF:-1 group-title="International",CNN 
-https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
 #EXTINF:-1 group-title="International",Bloomberg
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="International",BloombergTV+
@@ -76,9 +74,9 @@ https://jmp2.uk/stvp-USBC39000171G
 #EXTINF:-1 group-title="International",Reuters
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1 group-title="International",C-span
-http://fl3.moveonjoy.com/C-SPAN/index.m3u8
+http://fl4.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="International",CNBC
-http://fl3.moveonjoy.com/CNBC/index.m3u8
+http://fl4.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="International",CNBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
 #EXTINF:-1 group-title="International",NHK
@@ -87,4 +85,5 @@ https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 #EXTINF:-1 group-title="International",rthktv33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+
 
