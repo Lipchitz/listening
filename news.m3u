@@ -49,10 +49,10 @@ https://ft.fbcdntv247.cfd/memfs/f03819b3-64bd-4730-ab94-2469c3d30d81_output_0.m3
 https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 #EXTINF:-1 group-title="International",FOX News
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
+#EXTINF:-1 group-title="International",SKY News 
+https://jmp2.uk/stvp-USBB52000022Q
 #EXTINF:-1 group-title="International",SKY News
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
-#EXTINF:-1 group-title="International",SKY News Now
-https://i.mjh.nz/.r/sky-news-now.m3u8
 #EXTINF:-1 group-title="International",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="International",Yahoo Finance 
@@ -82,8 +82,4 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
 #EXTINF:-1 group-title="International",NHK
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="International",NHK
-https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
-#EXTINF:-1 group-title="International",rthktv33
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-
-
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
