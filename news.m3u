@@ -1,20 +1,18 @@
 #EXTM3U
 #EXTINF:-1 group-title="International",BBC World Service
-https://jmp2.uk/stvp-US4000033L
+http://tv14s.xyz:8080/3vUZc1/978269/14387
 #EXTINF:-1 group-title="International",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International",BBC SD
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+http://tv14s.xyz:8080/3vUZc1/978269/139752
 #EXTINF:-1 group-title="International",BBC
-https://i.mjh.nz/.r/bbc-news.m3u8
+http://tv14s.xyz:8080/3vUZc1/978269/53757
 #EXTINF:-1 group-title="International",BBC
 http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/40091.m3u8
 #EXTINF:-1 group-title="International",BBC
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News-avc1_3000000=8-mp4a_208000_eng=2.m3u8
 #EXTINF:-1 group-title="International",CNN
 https://jmp2.uk/stvp-CHBD800001D0
-#EXTINF:-1 group-title="International",CNN
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
 #EXTINF:-1 group-title="International",CNN 
 https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="International",CNN Germany
@@ -24,17 +22,15 @@ https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="International",Bloomberg
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="International",BloombergTV+
-https://bloomberg-bloombergtv-1-fr.samsung.wurl.tv/manifest/playlist.m3u8
+http://tv14s.xyz:8080/3vUZc1/978269/15158
 #EXTINF:-1 group-title="International",Bloomberg
 https://jmp2.uk/stvp-ATBA3300018K1
 #EXTINF:-1 group-title="International",Bloomberg
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/fdb0154a-da78-4f9f-adc6-37ed0fb4eeed/0.m3u8
-#EXTINF:-1 group-title="International",Bloomberg
-https://i.mjh.nz/.r/bloomberg-tv.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+http://tv14s.xyz:8080/3vUZc1/978269/160711
 #EXTINF:-1 group-title="International",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="International",DW News
@@ -70,16 +66,16 @@ https://jmp2.uk/stvp-GBBB1500004LG
 #EXTINF:-1 group-title="International",NBC News NOW
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 group-title="International",ABC News Live
-https://jmp2.uk/stvp-USBC39000171G
+http://tv14s.xyz:8080/3vUZc1/978269/22990
 #EXTINF:-1 group-title="International",Reuters
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1 group-title="International",C-span
-http://fl41.moveonjoy.com/C-SPAN/index.m3u8
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="International",CNBC
-http://fl41.moveonjoy.com/CNBC/index.m3u8
+https://jmp2.uk/stvp-GBBD3600001NO
 #EXTINF:-1 group-title="International",CNBC
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
+https://fl1.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="International",NHK
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
-
-
+#EXTINF:-1 group-title="International",NHK
+https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
