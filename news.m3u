@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="International",BBC World Service
-http://tv14s.xyz:8080/3vUZc1/978269/14387
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/445134
 #EXTINF:-1 group-title="International",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International",BBC SD
@@ -19,6 +19,8 @@ https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 https://jmp2.uk/stvp-DEBD800001S4
 #EXTINF:-1 group-title="International",CNN UK
 https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 group-title="International",CNN
+http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
 #EXTINF:-1 group-title="International",Bloomberg
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="International",BloombergTV+
@@ -47,8 +49,8 @@ https://livetv-fa.tubi.video/fox-live-now/index.m3u8
 https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 group-title="International",SKY News 
 https://jmp2.uk/stvp-USBB52000022Q
-#EXTINF:-1 group-title="International",SKY News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/55b285cd2665de274553d66f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bb092-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7161f04a-ca8e-48a5-ba86-50e1f09b73b7
+#EXTINF:-1 group-title="International",Sky News
+http://powerserver.ottc.pro:80/PWYZQZ93BU/FZYPDZNITZ/4863
 #EXTINF:-1 group-title="International",Yahoo Finance
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="International",Yahoo Finance 
@@ -67,6 +69,8 @@ https://jmp2.uk/stvp-GBBB1500004LG
 https://livetv-fa.tubi.video/nbc-news-now/master_5.m3u8
 #EXTINF:-1 group-title="International",ABC News Live
 http://tv14s.xyz:8080/3vUZc1/978269/22990
+#EXTINF:-1 group-title="International",ABC News
+http://best-streams.tv:80/11223344/44332211/75240
 #EXTINF:-1 group-title="International",Reuters
 https://jmp2.uk/stvp-DEBD4900001QV
 #EXTINF:-1 group-title="International",C-span
@@ -79,3 +83,4 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="International",NHK
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
+
