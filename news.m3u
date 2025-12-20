@@ -17,10 +17,12 @@ https://jmp2.uk/stvp-CHBD800001D0
 https://mediapackage-ptcn-source.fullscreen.nz/index.m3u8
 #EXTINF:-1 group-title="International",CNN Germany
 https://jmp2.uk/stvp-DEBD800001S4
+#EXTINF:-1 group-title="International",CNN 
+https://ds2c506obo7m8.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/e18752ea-666a-42c4-bae6-39aee18b24ad/0.m3u8
 #EXTINF:-1 group-title="International",CNN UK
 https://jmp2.uk/stvp-GBBD8000016N
 #EXTINF:-1 group-title="International",CNN
-http://hardcoremedia.xyz:80/2sUX8DtA5/W30x4yBJXH/129637
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="International",Bloomberg
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 group-title="International",BloombergTV+
@@ -30,7 +32,7 @@ https://jmp2.uk/stvp-ATBA3300018K1
 #EXTINF:-1 group-title="International",Bloomberg
 https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/fdb0154a-da78-4f9f-adc6-37ed0fb4eeed/0.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
-https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+https://live-hls-apps-aje-v3-fa.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="International",Al Jazeera
 http://tv14s.xyz:8080/3vUZc1/978269/160711
 #EXTINF:-1 group-title="International",CNA
@@ -83,4 +85,3 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="International",NHK
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
-
