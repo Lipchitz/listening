@@ -3,6 +3,7 @@
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="International",BBC World Service
 https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#EXTINF:-1 group-title="International",BBC World Service
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192fhttps://tg-sub-bot.sharewithyou.dpdns.org/play?p=ne6BcKjWjAYmPNGgNME_OwyixfH2dBBjeLjX0jsfrfGJotGWy1zd2PXfjMSQiP9wXww7IFQEsWn9G5S93sWnx3M7g-UxqJU1vj8vOzXu2VPCsSRRJtOnrwmXmZ7rTmivATdwlYAx99pVYAkoApgpfu1yJx0GY2s-dmIheSGxsIwCI01SIbK_xz-lnzRG_Ug5u_dnY_-fO8F6IIyXdhtHpGCuYTYXF9YMKmUbm2zJUX7E8Vp7P7FweJ-9HM29QANrLZ5PtegnReQL9TGIEeW0JLk
 #EXTINF:-1 group-title="International",BBC
 https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
@@ -82,3 +83,4 @@ https://fl1.moveonjoy.com/CNBC/index.m3u8
 https://b-nhkwlive-ojp.nhkworld.jp/hls/live/2003459-b/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="International",NHK
 https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_2M.m3u8
+
